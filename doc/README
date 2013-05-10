@@ -4,4 +4,6 @@ Simple Jquery Validation Plugin
 Need to be done various functionality.
 
 For Include in page, just include jquery and jquery-validation.js  in page and for validation just call $(any form id class or tag).validate() and its will return 
-either false and true 
+either false and true
+
+Sample Example to be included. Work is in progress for simple example 
