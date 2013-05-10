@@ -1,0 +1,7 @@
+Simple Jquery Validation Plugin
+  Simple jquery plugin for validation various regular expressions and general length validation and Displaying error.
+
+Need to be done various functionality.
+
+For Include in page, just include jquery and jquery-validation.js  in page and for validation just call $(any form id class or tag).validate() and its will return 
+either false and true 
